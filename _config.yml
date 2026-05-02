@@ -31,7 +31,7 @@ resume-url: /assets/resume/Resume - Emma Fries.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: https://www.linkedin.com/in/emmafries734/    # https://www.linkedin.com/in/{your url slug} 
   github: leea12    # https://github.com/{your url slug} 
   stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
