@@ -6,7 +6,7 @@ skills:
 - SolidWorks
 - 3D Printing (FDM)
 - Prototyping
-main-image: /heart3.webp
+main-image: /closeturbsys.jpeg
 ---
 
 ---
