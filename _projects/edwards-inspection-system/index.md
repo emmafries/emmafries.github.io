@@ -7,5 +7,5 @@ skills:
 - 3D Printing (FDM)
 - Prototyping
 - Manual Machining (Mill)
-main-image: /project.webp 
+main-image: /SrProjectImage1.jpeg
 ---
