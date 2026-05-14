@@ -20,7 +20,8 @@ Designed pneumatic fixtures, motion control for a Meca500 robot arm, and camera 
 Utilized **SolidWorks** to model assembly and create custom components with technical drawings with **GD&T**
 
 Manufactured components using **3D printing** and manual mill
-% include image-gallery.html images="https://drive.google.com/file/d/1vlX22oWr8gzb7_zBzACXpH7c5BQtGBJg/view" height="400"%
+
+{% include image-gallery.html images="SrProjectImage2.jpeg" height="400" %} 
 
 
 ## Results
