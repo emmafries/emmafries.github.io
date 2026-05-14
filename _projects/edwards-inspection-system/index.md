@@ -7,14 +7,14 @@ skills:
 - 3D Printing (FDM)
 - Prototyping
 - Manual Machining (Mill)
-main-image: /SrProjectImage1.jpeg
+main-image: /Heartvalve.png
 ---
 
 ---
 # Visual Inspection System Senior Project with Edwards Lifesciences (NDA)
 Developed a proof-of-concept **prototype** to demonstrate the utility and feasibility of an automated inspection process
 
-{% include image-gallery.html images="SrProjectImage1.jpeg" height="400" %}
+{% include image-gallery.html images="Heartvalve.png" height="400" %}
 <span style="font-size: 10px">Substitute image for proprietary design from </span>
 
 ## How?
