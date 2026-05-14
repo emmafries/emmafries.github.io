@@ -15,11 +15,11 @@ main-image: /SrProjectImage1.jpeg
 Developed a proof-of-concept **prototype** to demonstrate the utility and feasibility of an automated inspection process
 
 ## How?
-Designed pneumatic fixtures, motion control for a Meca500 robot arm, and camera assembly for inspection cycle
+- Designed pneumatic fixtures, motion control for a Meca500 robot arm, and camera assembly for inspection cycle
 
-Utilized **SolidWorks** to model assembly and create custom components with technical drawings with **GD&T**
+- Utilized **SolidWorks** to model assembly and create custom components with technical drawings with **GD&T**
 
-Manufactured components using **3D printing** and manual mill
+- Manufactured components using **3D printing** and manual mill
 
 {% include image-gallery.html images="SrProjectImage2.jpeg" height="400" %} 
 
