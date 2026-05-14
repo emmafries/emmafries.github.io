@@ -99,7 +99,7 @@ colors: # this is the basic theme
   border: "#ddd"
   link: "#6e9455"
   highlight: "#0c0cf2"
-  background: "#eef8e7"
+  background: "#f2faed"
   light_background: "#f3f5fb"
   
 # A few examples. 
@@ -140,7 +140,7 @@ lemon theme:
  # border: "#ddd"
  # link: "#6e9455"
  # highlight: "#0c0cf2"
- # background: "#ffffff"
+ # background: "#eef8e7"
  # light_background: "#f3f5fb"
 
 
