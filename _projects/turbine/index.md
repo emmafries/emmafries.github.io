@@ -6,7 +6,7 @@ skills:
 - SolidWorks
 - 3D Printing (FDM)
 - Prototyping
-main-image: /closeturbsys.jpeg
+main-image: /turbsys.jpeg
 ---
 
 ---
