@@ -22,11 +22,11 @@ main-image: /turb3.jpeg
 - Modeled and fabricated turbine system and structure using SolidWorks, FDM 3D printing, and shop tools
 
 {% include image-gallery.html images="turbsld2.png, turbpart.jpeg" height="400" %}
-<span style="font-size: 20px">3D Printed Runner</span>
+<span style="font-size: 13px">3D Printed Runner</span>
 
 
-{% include image-gallery.html images="nozzlesld.jpeg, nozzlepart.jpeg" height="400" %}
-<span style="font-size: 20px">3D Printed Nozzle</span>
+{% include image-gallery.html images="nozzlesld.jpeg" height="400" %}
+<span style="font-size: 13px">3D Printed Nozzle</span>
 
 ---
 ## Results
