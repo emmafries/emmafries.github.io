@@ -14,7 +14,7 @@ main-image: /turb3.jpeg
 - Designed and fabricated a turbine system to pull a 1 newton weight at least 20 feet using 1 liter of water
 - Designed using constraints on turbine wheel size, reservoir height, and tubing size
 
-{% include image-gallery.html images="turbstruc.png" height="400" include image-gallery.html images="closeturbsys.jpeg" height="400" %}
+{% include image-gallery.html images="turbstruc.png" height="400" %}{% include image-gallery.html images="closeturbsys.jpeg" height="400" %}
 
 
 
