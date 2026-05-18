@@ -20,13 +20,16 @@ main-image: /turb3.jpeg
 - Performed hand calculations and EES calculations to size components
 - Modeled and fabricated turbine system and structure using SolidWorks, FDM 3D printing, and shop tools
 
-{% include image-gallery.html images="turbsld2.png, turbpart.jpeg" height="300" %}
+{% include image-gallery.html images="turbsld2.png, turbpart.jpeg" height="400" %}
+<span style="font-size: 10px">3D Printed Runner</span>
 
-{% include image-gallery.html images="nozzlesld.jpeg, nozzlepart.jpeg" height="300" %}
+
+{% include image-gallery.html images="nozzlesld.jpeg, nozzlepart.jpeg" height="400" %}
+<span style="font-size: 10px">3D Printed Nozzle</span>
 
 ## Results
 - Conducted multiple rounds of testing and revisions to optimize the turbine performance and pulling speed in competition
 - Successfully pulled 1 newton weight 20 feet
 
-{% include image-gallery.html images="runvid.png" height="300" %}
+{% include image-gallery.html images="runvid.png" height="400" %}
 <video src="_projects/turbine/turb.MOV" width="320" height="240" controls></video>
