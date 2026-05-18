@@ -6,7 +6,7 @@ skills:
 - SolidWorks
 - 3D Printing (FDM)
 - Prototyping
-main-image: /turbstruc2.jpeg
+main-image: /turb3.jpeg
 ---
 
 ---
@@ -14,7 +14,8 @@ main-image: /turbstruc2.jpeg
 - Designed and fabricated a turbine system to pull a 1 newton weight at least 20 feet using 1 liter of water
 - Designed using constraints on turbine wheel size, reservoir height, and tubing size
 
-{% include image-gallery.html images="turbstruc.png" height="300" include image-gallery.html images="closeturbsys.jpeg" height="300" %}
+{% include image-gallery.html images="turbstruc.png" height="400" include image-gallery.html images="closeturbsys.jpeg" height="400" %}
+test
 
 
 ## How?
@@ -30,3 +31,4 @@ main-image: /turbstruc2.jpeg
 - Successfully pulled 1 newton weight 20 feet
 
 {% include image-gallery.html images="runvid.png" height="300" %}
+{% include image-gallery.html images="turb.MOV" height="300" %}
