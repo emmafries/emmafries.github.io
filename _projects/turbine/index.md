@@ -25,7 +25,7 @@ main-image: /turb3.jpeg
 <span style="font-size: 13px">3D Printed Runner</span>
 
 
-{% include image-gallery.html images="nozzlesld.jpeg" height="400" %}
+{% include image-gallery.html images="nozzlesld.jpeg, nozzlepart.jpeg" height="400" %}
 <span style="font-size: 13px">3D Printed Nozzle</span>
 
 ---
