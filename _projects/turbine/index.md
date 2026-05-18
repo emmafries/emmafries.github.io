@@ -29,4 +29,4 @@ main-image: /turb3.jpeg
 - Successfully pulled 1 newton weight 20 feet
 
 {% include image-gallery.html images="runvid.png" height="300" %}
-{% include image-gallery.html images="turb.MOV" height="300" %}
+<video src="_projects/turbine/turb.MOV" width="320" height="240" controls></video>
