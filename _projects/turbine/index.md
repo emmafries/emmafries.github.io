@@ -21,11 +21,11 @@ main-image: /turb9.jpeg
 - Performed hand calculations and EES calculations to size components
 - Modeled and fabricated turbine system and structure using SolidWorks, FDM 3D printing, and shop tools
 
+<span style="font-size: 15px">3D Printed Runner</span>
 {% include image-gallery.html images="turbsld2.png, turbpart.jpeg" height="400" %}
-<span style="font-size: 13px">3D Printed Runner</span>
 
+<span style="font-size: 15px">3D Printed Nozzle</span>
 {% include image-gallery.html images="nozzlesld.jpeg, nozzlepart.jpeg" height="400" %}
-<span style="font-size: 13px">3D Printed Nozzle</span>
 
 ---
 ## Results
