@@ -6,7 +6,7 @@ skills:
 - SolidWorks
 - 3D Printing (FDM)
 - Prototyping
-main-image: /turb7.jpeg
+main-image: /turb8.jpeg
 ---
 
 ---
