@@ -35,4 +35,4 @@ main-image: /turb5.jpeg
 
 {% include image-gallery.html images="runvid.png" height="400" %}
 
-{% include youtube-video.html id="u15se02c5mU" autoplay= "false"%}
+{% include youtube-video.html id="u15se02c5mU" autoplay= "false" width= "600px"%}
