@@ -37,6 +37,6 @@ main-image: /turb7.jpeg
 - Successfully pulled 1 newton weight 20 feet
 
 
-{% include image-gallery.html images="runvid.png" height="400" youtube-video.html id="u15se02c5mU" autoplay= "false" width= "700px"%}
+{% include image-gallery.html images="runvid.png" height="400" % include youtube-video.html id="u15se02c5mU" autoplay= "false" width= "700px"%}
 ---
 {% include image-gallery.html images="runvid.png" height="400" %}{% include youtube-video.html id="u15se02c5mU" autoplay= "false" width= "700px"%}
