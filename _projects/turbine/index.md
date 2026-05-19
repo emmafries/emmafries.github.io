@@ -15,7 +15,6 @@ main-image: /turb5.jpeg
 - Designed using constraints on turbine wheel size, reservoir height, and tubing size
 
 {% include image-gallery.html images="turbstruc.png, closeturbsys.jpeg" height="550" %}
-<br>
 ---
 ## How?
 - Performed hand calculations and EES calculations to size components
@@ -32,7 +31,6 @@ main-image: /turb5.jpeg
 
 
 
-<br>
 ---
 ## Results
 - Conducted multiple rounds of testing and revisions to optimize the turbine performance and pulling speed in competition
