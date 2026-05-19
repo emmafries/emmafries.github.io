@@ -15,6 +15,7 @@ main-image: /turb9.jpeg
 - Designed using constraints on turbine wheel size, reservoir height, and tubing size
 
 {% include image-gallery.html images="turb6.jpeg, closeturbsys.jpeg" height="550" %}
+
 ---
 ## How?
 - Performed hand calculations and EES calculations to size components
@@ -23,13 +24,8 @@ main-image: /turb9.jpeg
 {% include image-gallery.html images="turbsld2.png, turbpart.jpeg" height="400" %}
 <span style="font-size: 13px">3D Printed Runner</span>
 
-
 {% include image-gallery.html images="nozzlesld.jpeg, nozzlepart.jpeg" height="400" %}
 <span style="font-size: 13px">3D Printed Nozzle</span>
-
-
-
-
 
 ---
 ## Results
