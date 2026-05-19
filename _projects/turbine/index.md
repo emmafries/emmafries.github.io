@@ -6,7 +6,7 @@ skills:
 - SolidWorks
 - 3D Printing (FDM)
 - Prototyping
-main-image: /turb3.jpeg
+main-image: /turb5.jpeg
 ---
 
 ---
@@ -34,4 +34,5 @@ main-image: /turb3.jpeg
 - Successfully pulled 1 newton weight 20 feet
 
 {% include image-gallery.html images="runvid.png" height="400" %}
-<video src="turb.MOV" width="320" height="240" controls></video>
+
+{% include youtube-video.html id="u15se02c5mU" autoplay= "false"%}
