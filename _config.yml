@@ -12,8 +12,8 @@ title: Emma Fries's Portfolio # This is what shows up in the tab of the browser
 
 
 # Hero Section
-name: Emma Fries
-headline: Engineer-in-Training
+name: Emma Fries, EIT
+headline: 
 description: >- # dont remove this line. this will ignore all new lines until the next section
   I am an Engineer-in-Training with a Bachelor of Science in Mechanical Engineering 
   from California Polytechnic State University, San Luis Obispo. <br><br> Email: emmajeannefries@gmail.com
@@ -31,7 +31,7 @@ resume-url: /assets/resume/Resume - Emma Fries.pdf
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: emmafries734    # https://www.linkedin.com/in/{your url slug} 
-  github:     # https://github.com/{your url slug} 
+  github: emmafries     # https://github.com/{your url slug} 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
@@ -44,10 +44,18 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Certifications
+    tools:
+    - Engineer-in-Training (#186647) - California Board for Professional Engineers
+    - Certified SolidWorks Associate (CSWA) - Mechanical Design
+  - category: Design & Analysis
     tools:
     - Solidworks (CSWA)
     - AutoCAD
+    - FEA (SolidWorks Simulation)
+    - MATLAB
+    - Python
+    - Microsoft Excel
   # - Onshape
   # - Creo
   # - Fusion 360 (Autodesk)
@@ -58,6 +66,8 @@ skills:
   - category: Prototyping
     tools:
     - FDM 3D Printing
+    - Manual Machining (Mill, Lathe)
+    - CNC Machining
   # - SLA
   # - CNC
   # - SLS
