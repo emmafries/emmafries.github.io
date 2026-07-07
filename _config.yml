@@ -104,11 +104,11 @@ formspree-key:   mlgznngw
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#1a1c20"
+  text: "#2e5e16"
   border: "#ddd"
   link: "#6e9455"
-  highlight: "#0c0cf2"
-  background: "#f1f7ee"
+  highlight: "#2e5e16"
+  background: "#f4f7f2"
   light_background: "#f3f5fb"
   
 # A few examples. 
