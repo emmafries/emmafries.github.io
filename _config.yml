@@ -106,9 +106,9 @@ formspree-key:   mlgznngw
 colors: # this is the basic theme
   text: "#1a1c20"
   border: "#ddd"
-  link: "#4a76ee"
+  link: "#6e9455"
   highlight: "#0c0cf2"
-  background: "#ffffff"
+  background: "#e3f0df"
   light_background: "#f3f5fb"
   
 # A few examples. 
