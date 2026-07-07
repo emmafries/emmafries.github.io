@@ -108,7 +108,7 @@ colors: # this is the basic theme
   border: "#ddd"
   link: "#6e9455"
   highlight: "#0c0cf2"
-  background: "#e3f0df"
+  background: "#f1f7ee"
   light_background: "#f3f5fb"
   
 # A few examples. 
