@@ -16,9 +16,7 @@ name: Emma Fries
 headline: Engineer-in-Training
 description: >- # dont remove this line. this will ignore all new lines until the next section
   I am an Engineer-in-Training with a Bachelor of Science in Mechanical Engineering 
-  from California Polytechnic State University, San Luis Obispo. 
-  
-  Email: emmajeannefries@gmail.com
+  from California Polytechnic State University, San Luis Obispo. <br> Email: emmajeannefries@gmail.com
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/profile.jpeg
