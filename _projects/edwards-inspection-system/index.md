@@ -48,7 +48,7 @@ Design Strengths:
 - Single camera
 - Successful move to capture full outer frame
 
-
+![alt text](team.jpeg)
 
 ## The Team
 {% include image-gallery.html images="team.jpeg" height="500" align="right" %} 
