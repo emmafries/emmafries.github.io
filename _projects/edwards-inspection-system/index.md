@@ -12,13 +12,11 @@ main-image: /Sapien 3.png
 ---
 
 ---
-| Column 1: Description | Column 2: Image Example |
-
-
-_projects/edwards-inspection-system/team.jpeg
-
-/projects/edwards-inspection-system/team.jpeg
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
