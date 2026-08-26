@@ -15,6 +15,7 @@ main-image: /heart3.webp
 Developed a proof-of-concept **prototype** to demonstrate the utility and feasibility of an automated inspection process
 
 {% include image-gallery.html images="Sapien 3.png" height="300" %}
+<span style="font-size: 20px">Edwards SAPIEN 3 Ultra transcatheter heart valve
 <span style="font-size: 10px">Design proprietary under NDA - generic substitute image from https://www.edwards.com/healthcare-professionals/products-services/transcatheter-heart/transcatheter-sapien-3-ultra</span>
 
 ## How?
