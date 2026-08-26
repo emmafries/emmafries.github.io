@@ -48,6 +48,10 @@ Design Strengths:
 - Single camera
 - Successful move to capture full outer frame
 
+<img align="right" width="300" src="SrProjectImage3.jpg">
+
+This is the paragraph text that will appear on the left side of your image. 
+The text will flow naturally alongside it because of the right alignment.
 
 
 | Text Column | Image |
