@@ -54,6 +54,11 @@ Design Strengths:
 
 
 
+| Text Column | Image Column |
+| :--- | :---: |
+| This text stays completely on the left side and will never wrap underneath the image. | {% include image-gallery.html images="SrProjectImage3.jpg" height="400" %} |
+
+
 
 ## The Team
 {% include image-gallery.html images="team.jpeg" height="500" %} 
