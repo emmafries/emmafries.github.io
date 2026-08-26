@@ -14,6 +14,13 @@ main-image: /heart3.webp
 # Visual Inspection System Senior Project with Edwards Lifesciences (NDA)
 Developed a proof-of-concept **prototype** to demonstrate the utility and feasibility of an automated inspection process
 
+## Goals: 
+Improve "subjective and tedious" inspection while maintaining accuracy and
+repeatability
+- 100% inspection of metal frame
+- "Lights Out" inspection
+- Minimize inspection time
+
 {% include image-gallery.html images="Sapien 3.png" height="300" %}
 <span style="font-size: 20px">Edwards SAPIEN 3 Ultra transcatheter heart valve
 <span style="font-size: 10px">Design proprietary under NDA - generic substitute image from https://www.edwards.com/healthcare-professionals/products-services/transcatheter-heart/transcatheter-sapien-3-ultra</span>
@@ -30,9 +37,14 @@ Developed a proof-of-concept **prototype** to demonstrate the utility and feasib
 
 
 ## Results
-Implemented robot motion and pneumatic control using RoboDK and Mecademic software and configured Basler Pylon image acquisition system to generate inspection images
+Implemented robot motion and pneumatic control using RoboDK and Mecademic software and configured Basler Pylon image acquisition system to generate inspection images{% include image-gallery.html images="SrProjectImage3.jpg" height="400" %}
+<span style="font-size: 10px">Design proprietary under NDA - generic substitute image from https://www.sciencedirect.com/science/article/pii/S0014305723009096</span>
 
 Produced detailed and precise images using the automated process in testing and created a detailed framework of how to produce inspection images for whole frame in manufacturing
+
+Design Strengths: 
+- Single camera
+- Successful move to capture full outer frame
 
 {% include image-gallery.html images="SrProjectImage3.jpg" height="400" %}
 <span style="font-size: 10px">Design proprietary under NDA - generic substitute image from https://www.sciencedirect.com/science/article/pii/S0014305723009096</span>
