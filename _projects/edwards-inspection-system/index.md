@@ -13,12 +13,10 @@ main-image: /Sapien 3.png
 
 ---
 ## Goals: 
-| Improve "subjective and tedious" inspection while maintaining accuracy and repeatability
+Improve "subjective and tedious" inspection while maintaining accuracy and repeatability
 - 100% inspection of metal frame
 - "Lights Out" inspection
-- Minimize inspection time | {% include image-gallery.html images="Sapien 3.png" height="300" align="right"%}
-<span style="font-size: 15px">Edwards SAPIEN 3 Ultra transcatheter heart valve</span>
-<span style="font-size: 12px">Design proprietary under NDA - generic substitute image from https://www.edwards.com/healthcare-professionals/products-services/transcatheter-heart/transcatheter-sapien-3-ultra</span> |
+- Minimize inspection time
 
 {% include image-gallery.html images="Sapien 3.png" height="300" align="right"%}
 <span style="font-size: 15px">Edwards SAPIEN 3 Ultra transcatheter heart valve</span>
@@ -50,14 +48,10 @@ Design Strengths:
 - Single camera
 - Successful move to capture full outer frame
 
-{% include image-gallery.html images="SrProjectImage3.jpg" height="400" %}
-<span style="font-size: 12px">Design proprietary under NDA - generic substitute image from https://www.sciencedirect.com/science/article/pii/S0014305723009096</span>
 
 
-
-| Text Column | {% include image-gallery.html images="SrProjectImage3.jpg" height="400" %} |
+| Text Column | Image |
 | :--- | :---: |
-| This text stays completely on the left side and will never wrap underneath the image. | {% include image-gallery.html images="SrProjectImage3.jpg" height="400" %} |
 
 
 
