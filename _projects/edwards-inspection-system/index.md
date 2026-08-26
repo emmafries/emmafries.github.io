@@ -14,8 +14,8 @@ main-image: /heart3.webp
 # Visual Inspection System Senior Project with Edwards Lifesciences (NDA)
 Developed a proof-of-concept **prototype** to demonstrate the utility and feasibility of an automated inspection process
 
-{% include image-gallery.html images="heart3.webp" height="300" %}
-<span style="font-size: 10px">Substitute image for proprietary design from https://www.researchgate.net/figure/Left-Edwards-SAPIEN-Edwards-Lifesciences-Irvine-California-USA-and-right_fig2_263660549</span>
+{% include image-gallery.html images="Sapien 3.png" height="300" %}
+<span style="font-size: 10px">Design proprietary under NDA - generic substitute image from https://www.edwards.com/healthcare-professionals/products-services/transcatheter-heart/transcatheter-sapien-3-ultra</span>
 
 ## How?
 - Designed pneumatic fixtures, motion control for a Meca500 robot arm, and camera assembly for inspection cycle
@@ -34,4 +34,4 @@ Implemented robot motion and pneumatic control using RoboDK and Mecademic softwa
 Produced detailed and precise images using the automated process in testing and created a detailed framework of how to produce inspection images for whole frame in manufacturing
 
 {% include image-gallery.html images="SrProjectImage3.jpg" height="400" %}
-<span style="font-size: 10px">Substitute image for proprietary design from https://www.sciencedirect.com/science/article/pii/S0014305723009096</span>
+<span style="font-size: 10px">Design proprietary under NDA - generic substitute image from https://www.sciencedirect.com/science/article/pii/S0014305723009096</span>
