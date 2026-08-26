@@ -15,7 +15,9 @@ main-image: /Sapien 3.png
 | Column 1: Description | Column 2: Image Example |
 
 
+_projects/edwards-inspection-system/team.jpeg
 
+/projects/edwards-inspection-system/team.jpeg
 
 
 
