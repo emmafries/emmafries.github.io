@@ -8,7 +8,7 @@ skills:
 - 3D Printing (FDM)
 - Prototyping
 - Manual Machining (Mill)
-main-image: /Sapien 3.png
+main-image: /Sapien 3.jpeg
 ---
 
 ---
