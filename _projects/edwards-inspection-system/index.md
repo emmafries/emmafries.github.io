@@ -51,5 +51,5 @@ Design Strengths:
 
 
 ## The Team
-{% include image-gallery.html images="team.jpeg" height="500" %} 
+{% include image-gallery.html images="team.jpeg" height="500" align="right" %} 
 <span style="font-size: 15px">Timothy, Jack, Elliot and me.</span>
