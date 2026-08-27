@@ -15,9 +15,9 @@ title: Emma Fries's Portfolio # This is what shows up in the tab of the browser
 name: Emma Fries
 headline: 
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Hi! Welcome to my portfolio website.<br>I have a BS in Mechanical Engineering from Cal Poly, 
+  Hi! Welcome to my portfolio website.<br><br>I have a BS in Mechanical Engineering from Cal Poly, 
   San Luis Obispo and an Engineer-in-Training certification. Here you can find information about 
-  me, my projects, and skills.<br>Feel free to send me an email at emmajeannefries@gmail.com or submit a message below.
+  me, my projects, and skills.<br><br>Feel free to send me an email at emmajeannefries@gmail.com or submit a message below.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/profile.jpeg
