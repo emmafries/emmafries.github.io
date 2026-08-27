@@ -46,9 +46,6 @@ Goals:
 {% include image-gallery.html images="SrProjectImage3.jpg" height="400" %}
 <span style="font-size: 12px">Design proprietary under NDA - generic substitute image from https://www.sciencedirect.com/science/article/pii/S0014305723009096</span>
 
-Design Strengths: 
-- Single camera
-- Successful move to capture full outer frame
 
 
 ## The Team
