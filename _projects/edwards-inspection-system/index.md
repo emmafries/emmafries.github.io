@@ -15,7 +15,7 @@ main-image: /Sapien 3.jpeg
 This senior project ran from Fall 2023 until Spring 2024 and was sponsored by Edwards Lifesciences. Many details of the project are limited by NDA and IP restrictions. Edwards Lifesciences inspects heart valve frames through a manual process that is described as "subjective and tedious". We were tasked with developing a prototype to transform the  inspection process and demostrate the feasibility of an automated inspection process. 
 
 
-<img src="Sapien 3.png" style="float: left; margin-right: 15px; max-width: 300px; height: auto;">
+<img src="Sapien 3.jpeg" style="float: left; margin-right: 15px; max-width: 300px; height: auto;">
 
 <br>
 <br>
