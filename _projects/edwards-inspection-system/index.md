@@ -17,6 +17,9 @@ This senior project ran from Fall 2023 until Spring 2024 and was sponsored by Ed
 
 <img src="./Sapien 3.png" style="float: left; margin-right: 15px; max-width: 250px; height: auto;">
 
+
+{% include image-gallery.html images="Sapien 3.png" height="300" align="right"%}
+
 <br>
 <br>
 Goals: 
