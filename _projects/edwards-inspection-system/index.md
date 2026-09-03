@@ -14,11 +14,29 @@ main-image: /Sapien 3.jpeg
 ---
 This senior project ran from Fall 2023 until Spring 2024 and was sponsored by Edwards Lifesciences. Many details of the project are limited by NDA and IP restrictions. Edwards Lifesciences inspects heart valve frames through a manual process that is described as "subjective and tedious". We were tasked with developing a prototype to transform the  inspection process and demostrate the feasibility of an automated inspection process. 
 
+
+<img src="Sapien 3.png" style="float: left; margin-right: 15px; max-width: 300px; height: auto;">
+
+<br>
+<br>
 Goals: 
+
 - Create 100% inspection of the metal frame
 - Fully automated, "Lights Out" inspection
 - Minimize inspection time
 - Lower cost
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<span style="font-size: 15px">Edwards SAPIEN 3 Ultra transcatheter heart valve</span><br><span style="font-size: 12px">Design proprietary under NDA - generic substitute image from https://www.edwards.com/healthcare-professionals/products-services/transcatheter-heart/transcatheter-sapien-3-ultra</span>
+
+
 
 {% include image-gallery.html images="Sapien 3.png" height="300" align="right"%}
 <span style="font-size: 15px">Edwards SAPIEN 3 Ultra transcatheter heart valve</span><br><span style="font-size: 12px">Design proprietary under NDA - generic substitute image from https://www.edwards.com/healthcare-professionals/products-services/transcatheter-heart/transcatheter-sapien-3-ultra</span>
@@ -36,6 +54,7 @@ Goals:
 
 {% include image-gallery.html images="meca.jpeg" height="500" %} 
 <span style="font-size: 12px">Meca 500 Robot from https://iptech1.com/product/meca500-robot/</span>
+
 
 
 
