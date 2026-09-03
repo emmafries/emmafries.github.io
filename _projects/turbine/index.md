@@ -29,7 +29,7 @@ main-image: /turb9.jpeg
 ![My Image Description](/_projects/turbine/nozzlesld.jpeg)
 
 
-<img src="nozzlesld.jpeg" style="float: left; margin-right: 15px; max-width: 250px; height: auto;">
+<img src="nozzlesld.jpeg" style="float: right; margin-right: 15px; max-width: 250px; height: auto;">
 
 This is where your text goes. Because the image is set to "float: left", this paragraph will automatically rise up and wrap neatly around the right side of the nozzle image. You can write as much text here as you need, and it will fill the empty space next to the picture.
 
