@@ -5,27 +5,25 @@ description: Designed and fabricated a turbine system to pull a 1 newton weight 
 skills: 
 - SolidWorks
 - 3D Printing (FDM)
-- Prototyping
 main-image: /turb9.jpeg
 ---
 
 ---
 
-{% comment %}
-{% include image-gallery.html images="turb6.jpeg" height="550" align="right"%}
-{% endcomment %}
+{% include image-gallery.html images="turbstruc2.jpeg" height="550" align="right" %}
 
-{% include image-gallery.html images="closeturbsys.jpeg" height="650" align="right" %}
-
+<br>
+<br>
 ## Goals
 - Designed and fabricated a turbine system to pull a 1 newton weight at least 20 feet using 1 liter of water
+
 - Designed using constraints on turbine wheel size, reservoir height, and tubing size
 
 <div style="clear: both;"></div>
 
 ---
 
-<div style="text-align: right;">
+<!-- <div style="text-align: right;">
     <span style="font-size: 15px">Runner SolidWorks Model</span>
 </div>
 {% include image-gallery.html images="turbsld2.png" height="500" align="right"%}
@@ -35,50 +33,88 @@ main-image: /turb9.jpeg
 
 - Designed runner and nozzle in SolidWorks.
 
-<div style="clear: both;"></div>
+<div style="clear: both;"></div> -->
 
-<div style="display: flex; justify-content: space-between;">
-  <span style="font-size: 15px;">Nozzle SolidWorks Model</span>
-  <span style="font-size: 15px;">Internal View of Nozzle</span>
+<!-- SOLIDWORKS RUNNER -->
+<style>
+.runner-img-wrap img {
+  max-width: 100% !important;
+  height: auto !important;
+  width: auto !important;
+}
+</style>
+
+<div class="runner-img-wrap" style="width: 75%; float: right; margin-left: 15px; margin-bottom: 10px;">
+  <div style="text-align: center; font-size: 15px;">
+    Runner SolidWorks Model
+  </div>
+  {% include image-gallery.html images="turbsld2.png" height="500" %}
 </div>
 
-{% include image-gallery.html images="nozzsldpart.jpeg" height="450" align="left"%}
-{% include image-gallery.html images="nozzinner.png" height="400" align="right"%}
+## How?
+- Performed hand calculations and EES calculations to size components
+
+- Designed runner and nozzle in SolidWorks.
 
 <div style="clear: both;"></div>
+<!-- END SOLIDWORKS RUNNER -->
+
+
+<!-- SOLIDWORKS NOZZLE -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; row-gap: 4px; column-gap: 60px; align-items: start;">
+
+  <!-- Title row -->
+  <div style="text-align: center; font-size: 15px; margin-top: 20px; margin-bottom: 0;">Nozzle SolidWorks Model</div>
+  <div style="text-align: center; font-size: 15px; margin-top: 20px; margin-bottom: 0;">Internal View of Nozzle</div>
+
+  <!-- Content row -->
+  <div style="margin-top: 0px; text-align: center;">
+    {% include image-gallery.html images="nozzsldpart.jpeg" height="450" %}
+  </div>
+  <div style="margin-top: 0px; text-align: center;">
+    {% include image-gallery.html images="nozzinner.png" height="400" %}
+  </div>
+</div>
+<!-- END SOLIDWORKS NOZZLE -->
+
 
 <br>
 <br>
+<br>
 
-<div style="text-align: right;">
-    <span style="font-size: 15px">3D Printed Runner</span>
+
+<!-- 3D PRINTED TURBINE & NOZZLE -->
+<div style="display: grid; grid-template-columns: 1fr 1.2fr 1.2fr; row-gap: 4px; column-gap: 20px; align-items: start;">
+
+  <!-- Title row -->
+  <div></div>
+  <div style="text-align: center; font-size: 15px; margin-bottom: 0;">3D Printed Runner</div>
+  <div style="text-align: center; font-size: 15px; margin-bottom: 0;">3D Printed Nozzle</div>
+
+  <!-- Content row -->
+  <div style="margin-top: 20px;">
+    <ul>
+      <li style="margin-bottom: 10px;">3D printed custom parts with using FDM</li>
+      <li>Runner was printed in two parts and securely glued together</li>
+    </ul>
+  </div>
+  <div style="text-align: center;">
+    {% include image-gallery.html images="turbpart.jpeg" height="500" %}
+  </div>
+  <div style="text-align: center;">
+    {% include image-gallery.html images="nozzlepart.jpeg" height="430" %}
+  </div>
 </div>
+<!-- END 3D PRINTED TURBINE & NOZZLE -->
 
-{% include image-gallery.html images="turbpart.jpeg" height="400" align="right"%}
-
-- 3D printed custom parts with using FDM 
-
-- Runner was printed in two parts and securely glued together
-
-<div style="clear: both;"></div>
-
-<div style="text-align: left;">
-    <span style="font-size: 15px">3D Printed Nozzle</span>
-</div>
-
-{% include image-gallery.html images="nozzlepart.jpeg" height="400" align="left"%}
-
-<div style="clear: both;"></div>
 
 ---
-{% include image-gallery.html images="nozzlepart.jpeg" height="400" align="right"%}
 
 ## Results
 - Conducted multiple rounds of testing and revisions to optimize the turbine performance and pulling speed in competition
 
 - Successfully pulled 1 newton weight 20 feet
 
-<div style="clear: both;"></div>
+{% include image-gallery.html images="runvid.png" height="315" align="left"%}
 
-<br>
-{% include youtube-video.html id="u15se02c5mU" autoplay= "false" width= "700px" align="right"%}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u15se02c5mU?si=NApY5QiMB9PT3Q3t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
