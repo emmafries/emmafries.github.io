@@ -33,7 +33,13 @@ This senior project ran from Fall 2023 until Spring 2024 and was sponsored by Ed
   <span style="font-size: 12px; text-align: right">Design proprietary under NDA - generic substitute image <br> from https://www.edwards.com/healthcare-professionals/products-services/transcatheter-heart/transcatheter-sapien-3-ultra</span>
 </div>
 
+---
 
+<br>
+
+{% include image-gallery.html images="meca.jpeg" height="500" align="left"%} 
+
+<br>
 ## How?
 - Designed pneumatic fixtures, motion control for a Meca500 robot arm, and camera assembly for inspection cycle
 - Utilized **SolidWorks** to model assembly and create custom components with technical drawings with **GD&T**
@@ -41,21 +47,30 @@ This senior project ran from Fall 2023 until Spring 2024 and was sponsored by Ed
 - Implemented robot motion and pneumatic control using RoboDK and Mecademic software
 - Configured Basler Pylon image acquisition system to generate inspection images
 
+<div style="clear: both;"></div>
 
-{% include image-gallery.html images="meca.jpeg" height="500" %} 
-<span style="font-size: 12px">Meca 500 Robot from https://iptech1.com/product/meca500-robot/</span>
+<div style="text-align: left;">
+    <span style="font-size: 12px">Meca 500 Robot from https://iptech1.com/product/meca500-robot/</span>
+</div>
 
 
+---
 
+{% include image-gallery.html images="SrProjectImage3.jpg" height="400" align="right" %}
 
+<br>
+<br>
 ## Results
 - Produced detailed and precise images using the automated process in testing and created a detailed framework of how to produce inspection images for whole frame in manufacturing
 
-{% include image-gallery.html images="SrProjectImage3.jpg" height="400" %}
-<span style="font-size: 12px">Design proprietary under NDA - generic substitute image from https://www.sciencedirect.com/science/article/pii/S0014305723009096</span>
+<div style="clear: both;"></div>
 
+<div style="text-align: right;">
+    <span style="font-size: 12px">Design proprietary under NDA - generic substitute image <br> from https://www.sciencedirect.com/science/article/pii/S0014305723009096</span>
+</div>
 
+---
 
 ## The Team
-{% include image-gallery.html images="team.jpeg" height="500" align="right" %} 
+{% include image-gallery.html images="team.jpeg" height="500" %} 
 <span style="font-size: 15px">Timothy, Jack, Elliot and me.</span>

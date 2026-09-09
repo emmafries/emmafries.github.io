@@ -3,9 +3,9 @@
 {% assign gallery_align = include.align | default: "none" %}
 
 {% if gallery_align == 'left' %}
-  {% assign img_style = "float: left; margin-right: 15px; margin-bottom: 10px;" %}
+  {% assign img_style = "float: left; margin-right: 50px; margin-bottom: 10px;" %}
 {% elsif gallery_align == 'right' %}
-  {% assign img_style = "float: right; margin-left: 15px; margin-bottom: 10px;" %}
+  {% assign img_style = "float: right; margin-left: 50px; margin-bottom: 10px;" %}
 {% else %}
   {% assign img_style = "" %}
 {% endif %}
