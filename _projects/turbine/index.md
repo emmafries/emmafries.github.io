@@ -71,7 +71,7 @@ main-image: /turb9.jpeg
 <div style="clear: both;"></div>
 
 ---
-{% include image-gallery.html images="runvid.png" height="400" align="right"%}
+{% include image-gallery.html images="nozzlepart.jpeg" height="400" align="right"%}
 
 ## Results
 - Conducted multiple rounds of testing and revisions to optimize the turbine performance and pulling speed in competition
