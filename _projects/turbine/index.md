@@ -15,7 +15,7 @@ main-image: /turb9.jpeg
 {% include image-gallery.html images="turb6.jpeg" height="550" align="right"%}
 {% endcomment %}
 
-{% include image-gallery.html images="closeturbsys.jpeg" height="550" align="right" %}
+{% include image-gallery.html images="closeturbsys.jpeg" height="650" align="right" %}
 
 ## Goals
 - Designed and fabricated a turbine system to pull a 1 newton weight at least 20 feet using 1 liter of water
@@ -25,30 +25,57 @@ main-image: /turb9.jpeg
 
 ---
 
+<div style="text-align: right;">
+    <span style="font-size: 15px">Runner SolidWorks Model</span>
+</div>
+{% include image-gallery.html images="turbsld2.png" height="500" align="right"%}
+
 ## How?
 - Performed hand calculations and EES calculations to size components
-- Modeled and fabricated turbine system and structure using SolidWorks, FDM 3D printing, and shop tools
 
-<span style="font-size: 15px">3D Printed Runner</span>
-{% include image-gallery.html images="turbsld2.png, turbpart.jpeg" height="400" %}
+- Designed runner and nozzle in SolidWorks.
 
-<span style="font-size: 15px">3D Printed Nozzle</span>
-{% include image-gallery.html images="nozzlesld.jpeg, nozzlepart.jpeg" height="400" %}
-![My Image Description](/_projects/turbine/nozzlesld.jpeg)
+<div style="clear: both;"></div>
 
+<div style="display: flex; justify-content: space-between;">
+  <span style="font-size: 15px;">Nozzle SolidWorks Model</span>
+  <span style="font-size: 15px;">Internal View of Nozzle</span>
+</div>
 
-<img src="nozzlesld.jpeg" style="float: right; margin-right: 15px; max-width: 250px; height: auto;">
+{% include image-gallery.html images="nozzsldpart.jpeg" height="450" align="left"%}
+{% include image-gallery.html images="nozzinner.png" height="400" align="right"%}
 
-This is where your text goes. Because the image is set to "float: left", this paragraph will automatically rise up and wrap neatly around the right side of the nozzle image. You can write as much text here as you need, and it will fill the empty space next to the picture.
+<div style="clear: both;"></div>
+
+<br>
+<br>
+
+<div style="text-align: right;">
+    <span style="font-size: 15px">3D Printed Runner</span>
+</div>
+
+{% include image-gallery.html images="turbpart.jpeg" height="400" align="right"%}
+
+- 3D printed custom parts with using FDM 
+
+- Runner was printed in two parts and securely glued together
+
+<div style="clear: both;"></div>
+
+<div style="text-align: left;">
+    <span style="font-size: 15px">3D Printed Nozzle</span>
+</div>
+
+{% include image-gallery.html images="nozzlepart.jpeg" height="400" align="left"%}
 
 <div style="clear: both;"></div>
 
 ---
-
-{% include image-gallery.html images="runvid.png" height="400" align="left"%}
+{% include image-gallery.html images="runvid.png" height="400" align="right"%}
 
 ## Results
 - Conducted multiple rounds of testing and revisions to optimize the turbine performance and pulling speed in competition
+
 - Successfully pulled 1 newton weight 20 feet
 
 <div style="clear: both;"></div>
