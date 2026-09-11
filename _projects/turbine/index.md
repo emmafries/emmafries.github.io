@@ -48,7 +48,7 @@ main-image: /turb9.jpeg
   <div style="text-align: center; font-size: 15px;">
     Runner SolidWorks Model
   </div>
-  {% include image-gallery.html images="turbsld2.png" height="500" %}
+  {% include image-gallery.html images="turbsld2.png" height="400" %}
 </div>
 
 ## How?
@@ -61,7 +61,7 @@ main-image: /turb9.jpeg
 
 
 <!-- SOLIDWORKS NOZZLE -->
-<div style="display: grid; grid-template-columns: 1fr 1fr; row-gap: 4px; column-gap: 60px; align-items: start;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; row-gap: 4px; column-gap: 0px; align-items: start;">
 
   <!-- Title row -->
   <div style="text-align: center; font-size: 15px; margin-top: 20px; margin-bottom: 0;">Nozzle SolidWorks Model</div>
@@ -69,10 +69,10 @@ main-image: /turb9.jpeg
 
   <!-- Content row -->
   <div style="margin-top: 0px; text-align: center;">
-    {% include image-gallery.html images="nozzsldpart.jpeg" height="450" %}
+    {% include image-gallery.html images="nozzsldpart.jpeg" height="400" %}
   </div>
   <div style="margin-top: 0px; text-align: center;">
-    {% include image-gallery.html images="nozzinner.png" height="400" %}
+    {% include image-gallery.html images="nozzinner.png" height="350" %}
   </div>
 </div>
 <!-- END SOLIDWORKS NOZZLE -->
@@ -84,7 +84,7 @@ main-image: /turb9.jpeg
 
 
 <!-- 3D PRINTED TURBINE & NOZZLE -->
-<div style="display: grid; grid-template-columns: 1fr 1.2fr 1.2fr; row-gap: 4px; column-gap: 20px; align-items: start;">
+<div style="display: grid; grid-template-columns: 1fr 1.2fr 1.2fr; row-gap: 15px; column-gap: 0px; align-items: start;">
 
   <!-- Title row -->
   <div></div>
@@ -99,10 +99,10 @@ main-image: /turb9.jpeg
     </ul>
   </div>
   <div style="text-align: center;">
-    {% include image-gallery.html images="turbpart.jpeg" height="500" %}
+    {% include image-gallery.html images="turbpart.jpeg" height="480" %}
   </div>
   <div style="text-align: center;">
-    {% include image-gallery.html images="nozzlepart.jpeg" height="430" %}
+    {% include image-gallery.html images="nozzlepart.jpeg" height="400" %}
   </div>
 </div>
 <!-- END 3D PRINTED TURBINE & NOZZLE -->
